@@ -6,3 +6,5 @@ This project was done in Python on Jupyter Notebook
 
 ### Project Description
 A simple Tic-Tac-Toe game between two human players.
+
+The markdown within the Jupyter Notebook are Walkthrough Steps provided by the Bootcamp. As this was my first big project, I followed the steps to finish it.
