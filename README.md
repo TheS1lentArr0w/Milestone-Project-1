@@ -1,7 +1,7 @@
 # Milestone-Project-1
 The first milestone project I undertook during my [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) on Udemy.
 
-### Programming language and IDE:
+### Programming language and IDE
 This project was done in Python on Jupyter Notebook
 
 ### Project Description
